@@ -1,4 +1,4 @@
-# a_s_launcher アンインストール
+# アンインストール
 
 # データパック適用のタグを削除
 tag @a remove a_s_launcher

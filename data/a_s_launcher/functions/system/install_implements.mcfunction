@@ -1,4 +1,4 @@
-# a_s_launcher インストール
+# インストール
 
 # スコアボードのオブジェクト追加
 function a_s_launcher:system/scoreboard/objectives/add/

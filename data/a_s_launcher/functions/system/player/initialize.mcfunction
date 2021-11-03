@@ -1,4 +1,4 @@
-### a_s_launcher プレイヤー毎の初期化
+### プレイヤー毎の初期化
 
 ## データパック適用のタグを追加
 tag @s add a_s_launcher

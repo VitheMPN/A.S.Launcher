@@ -1,4 +1,4 @@
-### a_s_launcher スコアボードオブジェクトを追加
+### スコアボードオブジェクトを追加
 
 ## 運動速度計算用
 function a_s_launcher:system/scoreboard/objectives/add/calc/
