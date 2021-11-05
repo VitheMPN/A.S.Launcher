@@ -4,7 +4,7 @@
 tag @s add a_s_launcher
 
 ## プレイヤーへの初期値入力
-execute as @s run function a_s_launcher:system/scoreboard/players/set/
+execute as @s run function a_s_launcher:scoreboard/players/set/
 
 ## 初期化完了 のテキスト表示
 tellraw @s [{"text":"初期化完了"},{"selector":"@s"}]

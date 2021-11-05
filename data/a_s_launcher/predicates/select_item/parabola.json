@@ -1,9 +1,5 @@
 [
-    {
-        "condition": "reference",
-        "name": "a_s_launcher:shot"
-    },
-    {
+     {
         "condition": "entity_properties",
         "entity": "this",
         "predicate": {

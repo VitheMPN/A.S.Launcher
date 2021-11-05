@@ -1,7 +1,7 @@
 ### プレイヤー毎の処理
 
 ## 初期化されていない (a_s_launcher タグのない) プレイヤーを初期化
-execute as @a[tag=!a_s_launcher] run function a_s_launcher:system/update/entity/player/initialize
+execute as @a[tag=!a_s_launcher] run function a_s_launcher:system/update/player/initialize
 
 ## 初期化されている (a_s_launcher タグのある) プレイヤーの処理を更新
-execute as @a[tag=a_s_launcher] run function a_s_launcher:system/update/entity/player/update
+execute as @a[tag=a_s_launcher] run function a_s_launcher:system/update/player/implements
