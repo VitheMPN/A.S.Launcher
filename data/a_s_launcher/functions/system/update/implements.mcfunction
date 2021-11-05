@@ -2,3 +2,6 @@
 
 ## プレイヤー毎の更新処理
 function a_s_launcher:system/update/entity/player/
+
+## 発射対毎の更新処理
+function a_s_launcher:system/update/entity/projectile/

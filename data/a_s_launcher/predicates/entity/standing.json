@@ -1,0 +1,10 @@
+[
+    {
+        "condition": "reference",
+        "name": "a_s_launcher:entity/onground"
+    },
+    {
+        "condition": "reference",
+        "name": "a_s_launcher:entity/quiescence"
+    }
+]

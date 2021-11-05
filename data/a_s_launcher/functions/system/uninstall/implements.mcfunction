@@ -4,7 +4,7 @@
 tag @a remove a_s_launcher
 
 # スコアボードのオブジェクト削除
-function a_s_launcher:system/scoreboard/objectives/remove/
+function a_s_launcher:scoreboard/objectives/remove/
 
 # インストール完了のフラグ削除
 data remove storage a_s_launcher:system Installed
