@@ -20,3 +20,6 @@ scoreboard players operation @s MotionY *= @s motion_ratioY
 
 ## 運動Z へ、 運速比Z を掛けた値代入する
 scoreboard players operation @s MotionZ *= @s motion_ratioZ
+
+## 運動速度を適用する
+function a_s_launcher:calc/motion/apply
